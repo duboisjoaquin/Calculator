@@ -1,2 +1,2 @@
 # Calculator
-simple calculator made in python using tkinter
+simple calculator made in python using tkinter library
